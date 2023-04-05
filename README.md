@@ -17,3 +17,5 @@ b) Losowanie elementów (typu int) z ustalonego zakresu i wczytywanie ich do drz
 c) Wykonanie operacji w wyniku wyboru pozycji z następującego menu:
 - Zapisz elementy drzewa AVL do pliku OutTest3.txt w kolejności KLP.
 - Dodaj element do drzewa AVL.
+
+Program made: 02/02/2023
